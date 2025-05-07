@@ -1,4 +1,4 @@
-# Recipe Recommendation System
+# FlavorMatch: Recipe Recommendation System
 
 This repository contains a recipe recommendation system that utilizes machine learning techniques to suggest recipes based on ingredient similarities. The system is built using a Jupyter notebook and a dataset of recipes.
 
